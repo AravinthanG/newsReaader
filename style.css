@@ -1,0 +1,21 @@
+#navbarSupportedContent {
+    font-size: 1.5rem;
+}
+
+.container-fluid {
+    padding: 15px;
+
+}
+
+.nav-item {
+    font-size: larger;
+    font-weight: 500;
+}
+
+.navbar-brand text-warning {
+    font-size: 200px;
+}
+
+#newsQuery {
+    width: 250px;
+}
